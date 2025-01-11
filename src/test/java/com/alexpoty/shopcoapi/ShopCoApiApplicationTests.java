@@ -1,4 +1,4 @@
-package com.carflipper.shopcoapi;
+package com.alexpoty.shopcoapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
